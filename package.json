@@ -1,0 +1,35 @@
+{
+    "name": "couchbase-store",
+    "version": "0.0.1",
+    "description": "Couchbase Session Store for Express Sessions",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "files": [
+        "lib",
+        "index.js"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/danielphingston/couchbase-store.git"
+    },
+    "keywords": [
+        "couchbase",
+        "express",
+        "session",
+        "store"
+    ],
+    "author": "daniel phingston",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/danielphingston/couchbase-store/issues"
+    },
+    "homepage": "https://github.com/danielphingston/couchbase-store#readme"
+}
