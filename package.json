@@ -1,6 +1,6 @@
 {
     "name": "couchbase-store",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Couchbase Session Store for Express Sessions",
     "main": "index.js",
     "directories": {
